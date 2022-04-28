@@ -2,7 +2,7 @@
 # Путешествия по России
 
 <div id="top"></div>
-## (https://alexfinokhin.github.io/russian-travel/)
+## https://alexfinokhin.github.io/russian-travel/
 ![image](https://user-images.githubusercontent.com/101180377/161977714-cf891c76-f667-44b8-90a2-7ee706408a35.png)
 
 Мой второй проект, который рассказывает о путешествия по бескрайнним просторам России
